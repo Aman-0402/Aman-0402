@@ -1,13 +1,13 @@
-<h1 align="left">👋 Hey, I'm Aman Raj!</h1>
+<h1 align="center">👋 Hey, I'm Aman Raj!</h1>
 
 ###
 
-<h3 align="left">Full Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
 
 ###
 
-<div align="left">
-  <img height="200" src="https://scontent.fixr1-1.fna.fbcdn.net/v/t39.30808-6/465715316_1106511530816501_217136445474933967_n.png?stp=dst-png_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=yp7CtAfK4DwQ7kNvgH-RGEF&_nc_zt=23&_nc_ht=scontent.fixr1-1.fna&_nc_gid=A_pUGawOlHUL0HoUlV8tqKm&oh=00_AYCy86H8AL7Wiwu71vxO63yA43dSFZpEwmlCbZ5pMYmpJA&oe=672C32C9"  />
+<div align="center">
+  <img height="250" src="https://scontent.fixr1-1.fna.fbcdn.net/v/t39.30808-6/465715316_1106511530816501_217136445474933967_n.png?stp=dst-png_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=yp7CtAfK4DwQ7kNvgH-RGEF&_nc_zt=23&_nc_ht=scontent.fixr1-1.fna&_nc_gid=A_pUGawOlHUL0HoUlV8tqKm&oh=00_AYCy86H8AL7Wiwu71vxO63yA43dSFZpEwmlCbZ5pMYmpJA&oe=672C32C9"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🌟 About Me</h3>
+<h3 align="center">🌟 About Me</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">⚙️ Tech Stack:</h3>
+<h3 align="center">⚙️ Tech Stack:</h3>
 
 ###
 
@@ -60,15 +60,7 @@
 
 ###
 
-<h3 align="left">🎯 Current Goals:</h3>
-
-###
-
-<h5 align="left">Contributing to open-source projects in machine learning.<br>Building more scalable, cloud-native applications.<br>Mastering DevOps practices to streamline development processes.</h5>
-
-###
-
-<h3 align="left">🛠️ What I Love to Do:</h3>
+<h3 align="center">🛠️ What I Love to Do:</h3>
 
 ###
 
@@ -83,7 +75,7 @@
 
 ###
 
-<h2 align="left">📬 Get in Touch</h2>
+<h2 align="center">📬 Get in Touch</h2>
 
 ###
 
@@ -115,8 +107,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aman-0402/Aman-0402/output/snake.svg" alt="Snake animation" />
 
 ###
