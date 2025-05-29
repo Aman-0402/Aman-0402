@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://scontent.fixr1-1.fna.fbcdn.net/v/t39.30808-6/465715316_1106511530816501_217136445474933967_n.png?stp=dst-png_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=yp7CtAfK4DwQ7kNvgH-RGEF&_nc_zt=23&_nc_ht=scontent.fixr1-1.fna&_nc_gid=A_pUGawOlHUL0HoUlV8tqKm&oh=00_AYCy86H8AL7Wiwu71vxO63yA43dSFZpEwmlCbZ5pMYmpJA&oe=672C32C9"  />
+  <img height="250" src="https://drive.google.com/file/d/1i3r2A3EvAnHLLcFTZYm_hknsGYyIAUCo/view?usp=drive_link"  />
 </div>
 
 ###
