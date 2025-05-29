@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="[https://drive.google.com/file/d/1i3r2A3EvAnHLLcFTZYm_hknsGYyIAUCo/view?usp=drive_link](https://drive.google.com/file/d/1i3r2A3EvAnHLLcFTZYm_hknsGYyIAUCo/view?usp=sharing)"  />
+  <img height="250" src="https://drive.google.com/uc?export=view&id=1i3r2A3EvAnHLLcFTZYm_hknsGYyIAUCo" />
 </div>
 
 ###
