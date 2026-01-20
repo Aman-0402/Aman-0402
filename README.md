@@ -3,7 +3,14 @@
 <h1 style="color:#ffffff;">👋 Hey, I'm Aman Raj!</h1>
 <h3 style="color:#d1e8ff;">AI-Focused Full Stack Developer | ML Enthusiast | Problem Solver</h3>
 
-<img src="https://drive.google.com/uc?export=view&id=1DQa6y5ds18y2VAd_1n_l2L4Xfmv-G3Ga" width="180" style="border-radius:50%; border:4px solid #ffffff;" />
+<div align="center" style="width:100%;">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1DQa6y5ds18y2VAd_1n_l2L4Xfmv-G3Ga" 
+    style="width:100%; max-width:1000px; border-radius:18px;" 
+    alt="Aman Raj Banner"
+  />
+</div>
+
 
 <p style="color:#e0f7ff; max-width:650px;">
 I build <b>AI-powered web applications</b> by combining Machine Learning, Data Science, and Full Stack Development to solve real-world problems at scale 🚀
