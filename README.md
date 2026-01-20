@@ -1,113 +1,123 @@
-<h1 align="center">👋 Hey, I'm Aman Raj!</h1>
+<div align="center" style="padding: 30px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius: 18px;">
 
-###
+<h1 style="color:#ffffff;">👋 Hi, I'm Aman Raj</h1>
+<h3 style="color:#d1e8ff;">AI Engineer | Full Stack Developer | ML Enthusiast</h3>
 
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
+<img src="https://drive.google.com/uc?export=view&id=1DQa6y5ds18y2VAd_1n_l2L4Xfmv-G3Ga" width="180" style="border-radius:50%; border:4px solid #ffffff;" />
 
-###
+<p style="color:#e0f7ff; max-width:650px;">
+I design and build <b>AI-powered intelligent systems</b>, blending Machine Learning, Data Science, and Full Stack Development to solve real-world problems at scale 🚀
+</p>
+
+</div>
+
+---
+
+## 🧠 AI-Focused Profile
+
+🔹 AI/ML Engineer with strong foundations in **Machine Learning, Deep Learning, NLP & Data Science**  
+🔹 Passionate about building **intelligent applications**, not just models  
+🔹 Experience integrating AI with **web platforms and cloud systems**  
+🔹 Focused on practical AI: prediction systems, recommendation engines, automation  
+
+---
+
+## 🔬 AI & Data Science Skills
+
+| Domain | Tools & Concepts |
+|--------|------------------|
+Machine Learning | Regression, Classification, Clustering, Feature Engineering |
+Deep Learning | ANN, CNN, RNN, LSTM |
+NLP | Text Classification, Tokenization, Transformers |
+Computer Vision | OpenCV, Image Classification |
+Data Science | EDA, Visualization, Pandas, NumPy |
+Deployment | Flask, FastAPI, Docker |
+Cloud AI | AWS EC2, S3, Model Hosting |
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1DQa6y5ds18y2VAd_1n_l2L4Xfmv-G3Ga" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs,django,flask,mongodb,mysql,aws,git" />
+
 </div>
 
+---
 
-###
+## 🚀 AI-Powered Projects
 
-<h5 align="left">Welcome to my GitHub corner! I'm Aman, a passionate full-stack developer with a deep interest in building intelligent systems through the power of AI and Machine Learning. I love taking on challenges, solving complex problems, and creating solutions that can have a real-world impact.</h5>
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🤖 AI Student Dashboard | Personalized learning, predictions, recommendations | MERN, ML |
+| 📊 Smart Analytics System | Business forecasting & trend analysis | Python, ML |
+| 🧠 NLP Chatbot | Context-aware conversational AI | NLP, Transformers |
+| 🌦 AI Weather Predictor | ML-based weather prediction | Python, Sklearn |
+| 🖼️ Image Classifier | Deep learning-based vision model | CNN, TensorFlow |
 
-###
+---
 
-<h3 align="center">🌟 About Me</h3>
-
-###
-
-<h5 align="left">🌱 Constant Learner: I'm always looking to upgrade my skills and stay up-to-date with the latest tech trends, whether it's in JavaScript, Python, or the latest frameworks.<br><br>🔭 What I’m working on: Currently focusing on projects involving AI/ML, microservices, and cloud architectures.<br><br>💡 Problem Solver: Love finding efficient solutions to complex challenges—be it in code, data pipelines, or life.</h5>
-
-###
-
-<h3 align="center">⚙️ Tech Stack:</h3>
-
-###
+## 📈 GitHub & Coding Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-0402&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-0402&layout=compact&theme=tokyonight" height="160"/>
+
 </div>
 
-###
+---
 
-<h3 align="center">🛠️ What I Love to Do:</h3>
+## 📚 Currently Learning
 
-###
+- 🔍 Advanced Machine Learning & Deep Learning  
+- ☁️ MLOps & AI Model Deployment  
+- 📡 Distributed AI Systems  
+- 🤝 AI Ethics & Responsible AI  
 
-<h5 align="left">Automating workflows to increase efficiency.<br>Turning ideas into working code.<br>Building intelligent systems that learn from data.</h5>
+---
 
-###
+## 🌍 Connect With Me
+
+<div align="center" style="padding:20px; background:#0f172a; border-radius:14px;">
+
+<a href="https://www.linkedin.com/in/aman-raj-081905211">
+<img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/Code_Like_Aman">
+<img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="mailto:aman08.stars@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/aman08_stars">
+<img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</div>
+
+---
+
+## 🎯 AI Vision
+
+> ⚡ “My goal is not just to build models, but to build systems that learn, adapt, and create impact.”
+
+---
+
+## 🧩 Fun AI Facts
+
+- I see data as stories waiting to be decoded 📊  
+- Debugging ML models is my favorite puzzle 🧩  
+- I turn datasets into decisions 🧠  
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-0402&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman-0402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### 🚀 Let’s build intelligent systems that shape the future 🚀
+
 </div>
-
-###
-
-<h2 align="center">📬 Get in Touch</h2>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlzb29hNHlwaHV0aWdhbzJjNzZvMzBqYjYya3hyMGg1NXA3ODA2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.webp"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aman-raj-081905211" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Code_Like_Aman" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="aman08.stars@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/epicure_wiz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/noneed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/aman08_stars" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
