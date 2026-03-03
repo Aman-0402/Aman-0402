@@ -11,23 +11,23 @@
 
 <div align="center">
 
-<a href="https://aman-0402.github.io/aman.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Explore_My_AI_Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a><br>
-<sub>✨ Live | AI Projects | Full Stack Systems | Real World Solutions</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <h1>👋 Hey, I'm Aman Raj!</h1>
 <h3>AI-Focused Full Stack Developer | ML Enthusiast | Problem Solver</h3>
 
 <p>
 I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data Science, and Full Stack Development to solve real-world problems 🚀
 </p>
+
+<br>
+
+<div align="center">
+
+<a href="https://aman-0402.github.io/aman.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_AI_Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a><br>
+<sub>✨ Live | AI Projects | Full Stack Systems | Real World Solutions</sub>
+
+</div>
 
 </div>
 
