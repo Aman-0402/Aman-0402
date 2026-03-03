@@ -13,7 +13,7 @@
 
 <a href="https://aman-0402.github.io/aman.ai/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Explore_My_AI_Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+</a><br>
 <sub>✨ Live | AI Projects | Full Stack Systems | Real World Solutions</sub>
 
 </div>
