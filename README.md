@@ -80,10 +80,10 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 ## 🛠️ What I Love To Build
 
-- 🧠 Intelligent systems that learn from data  
-- ⚡ Automation pipelines & backend systems  
-- 📊 Predictive analytics & decision engines  
-- 🌐 AI-powered scalable web applications  
+- 🏢 Multi-tenant SaaS platforms with strict data isolation & RBAC  
+- 💬 Real-time systems — WebSocket chat, live notifications, background jobs (Celery)  
+- 💳 Payment & commerce flows — escrow, vouchers, fee calculation  
+- 🎓 Training & ed-tech platforms used in production classrooms  
 
 ---
 
