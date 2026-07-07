@@ -145,10 +145,10 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 ## 📚 Currently Learning
 
-- Advanced Machine Learning  
-- Deep Learning Architectures  
-- MLOps & Model Deployment  
-- Cloud-native AI Systems  
+- ☁️ Cloud deployment & DevOps (AWS, CI/CD pipelines)  
+- ⚙️ Scaling multi-tenant SaaS architecture & system design  
+- 🤖 Generative AI integration — prompt & context engineering, API-based AI systems  
+- 📈 Applied NLP & model evaluation beyond the basics  
 
 ---
 
@@ -156,12 +156,12 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-0402&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Aman-0402&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-0402&theme=radical" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-0402&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Aman-0402&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
@@ -174,25 +174,23 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 <a href="https://www.linkedin.com/in/aman-raj-081905211">
 <img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<a href="https://twitter.com/Code_Like_Aman">
-<img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
+<a href="https://www.hackerrank.com/profile/aman08_stars">
+<img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
+<a href="https://leetcode.com/u/Am0402/">
+<img src="https://img.shields.io/badge/LeetCode-Am0402-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
 
 <a href="mailto:think.like.ai.aman@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
+<a href="https://twitter.com/Code_Like_Aman">
+<img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
 <a href="https://www.instagram.com/epicure_wiz">
 <img src="https://img.shields.io/badge/Instagram-epicure__wiz-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/aman08_stars">
-<img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://leetcode.com/u/Am0402/">
-<img src="https://img.shields.io/badge/LeetCode-Am0402-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
