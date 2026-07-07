@@ -8,13 +8,18 @@
 <div align="center">
 
 <h1>👋 Hey, I'm Aman Raj!</h1>
-<h3>AI-Focused Full Stack Developer | ML Enthusiast | Problem Solver</h3>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI-Focused+Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver+%7C+Builder+of+Intelligent+Systems" alt="Typing SVG" />
+</a>
 
 <p>
 I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data Science, and Full Stack Development to solve real-world problems 🚀
 </p>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=Aman-0402&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
 
 <div align="center">
 
