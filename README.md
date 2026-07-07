@@ -123,6 +123,10 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 <img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
+<a href="https://leetcode.com/u/Am0402/">
+<img src="https://img.shields.io/badge/LeetCode-Am0402-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </div>
 
 ---
