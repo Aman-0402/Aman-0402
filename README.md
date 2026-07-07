@@ -36,10 +36,11 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 ## 🧠 AI & Developer Profile
 
-- 🤖 AI/ML Engineer in the making with strong foundations in ML, DL & Data Science  
-- 🌱 Constant learner in Python, AI frameworks, and cloud computing  
-- 🔭 Building AI-driven systems, scalable architectures & intelligent automation  
-- 💡 Passionate about solving complex real-world problems using data & logic  
+- 🚀 Full stack developer shipping production apps with Django + React + MySQL/PostgreSQL  
+- 🤖 Applying ML/DL (Python, Scikit-learn, TensorFlow, PyTorch) to real prediction & automation problems  
+- 🔭 Currently building AI-driven platforms — education systems, service marketplaces, admin dashboards  
+- 🌱 Leveling up in MLOps, cloud deployment (AWS), and scalable backend architecture  
+- 💡 I ship end-to-end: data pipeline → model → API → UI
 
 ---
 
