@@ -79,6 +79,29 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+```
+     🖐️
+   ╱ ╱ ╱ ╲ ╲
+  ╱ GITHUB  ╲
+ │ ACHIEVEMENTS │
+  ╲___________╱
+```
+
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-1E88E5?style=for-the-badge&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/🤠_Pair_Extraordinaire-F4A825?style=for-the-badge&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/🌀_YOLO-C471ED?style=for-the-badge&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/🤩_Starstruck-9C27B0?style=for-the-badge&logoColor=white"/>
+
+<sub>See live badges → <a href="https://github.com/Aman-0402?tab=achievements">github.com/Aman-0402/achievements</a></sub>
+
+</div>
+
+---
+
 ## 🧠 AI & Developer Profile
 
 - 🚀 Full stack developer shipping production apps with Django + React + MySQL/PostgreSQL  
