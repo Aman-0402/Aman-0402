@@ -83,13 +83,9 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-```
-     🖐️
-   ╱ ╱ ╱ ╲ ╲
-  ╱ GITHUB  ╲
- │ ACHIEVEMENTS │
-  ╲___________╱
-```
+<h1>👋</h1>
+
+**GitHub Achievements**
 
 <img src="https://img.shields.io/badge/🦈_Pull_Shark-1E88E5?style=for-the-badge&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/🤠_Pair_Extraordinaire-F4A825?style=for-the-badge&logoColor=white"/>&nbsp;
