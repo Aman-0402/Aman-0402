@@ -19,7 +19,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <img src="https://komarev.com/ghpvc/?username=Aman-0402&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 
-<br><br>
+<br>
 
 <div align="center">
 
