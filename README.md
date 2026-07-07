@@ -44,10 +44,36 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 ---
 
-## ⚙️ AI & Full Stack Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs,django,flask,mongodb,mysql,aws,git,docker" />
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,prisma" />
+
+**Data Science & AI**
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+**Cloud & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+
 </div>
 
 ---
