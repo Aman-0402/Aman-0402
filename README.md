@@ -1,7 +1,6 @@
 <!-- HERO SECTION -->
-<div align="center" style="width:100%;">
-<img src="https://drive.google.com/uc?export=view&id=1zupEWC2J9vA_lBIP8nbCrkGg3rrlMMOS" 
-style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Aman Raj Banner" />
+<div align="center">
+<img src="assets/profile.png" width="100%" alt="Aman Raj Banner" />
 </div>
 
 <br>
@@ -60,10 +59,8 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| Wine Quality Prediction | ML model predicting wine quality | Python, Sklearn |
-| Watermarking Attacks & Recovery | Image processing & security system | OpenCV, Python |
-| Statistics-Colab | Data analytics & ML notebooks | Pandas, NumPy |
-| AI Student Dashboard | Smart academic prediction system | MERN + ML |
+| [Wine Quality Prediction](https://github.com/Aman-0402/Wine-Quality-prediction) | ML model predicting wine quality | Python, Sklearn |
+| [Watermarking Attacks & Recovery](https://github.com/Aman-0402/Watermarking_Attacks_and_Recovery) | Image processing & security system | OpenCV, Python |
 
 ---
 
@@ -71,10 +68,10 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 | Project | Description |
 |----------|-------------|
-| Blood Donation App | Django-based full stack healthcare system |
-| EchoSpace Blog CMS | Role-based Blog management system with CRUD |
-| My Portfolio | Modern AI-focused personal website |
-| React Todo App | Clean & responsive React UI |
+| [Blood Donation App](https://github.com/Aman-0402/Blood_Donation_PythonDjango) | Django-based full stack healthcare system |
+| [EchoSpace Blog CMS](https://github.com/Aman-0402/EchoSpace-Blog-Management-System-) | Role-based Blog management system with CRUD |
+| [My Portfolio](https://github.com/Aman-0402/aman.ai) | Modern AI-focused personal website |
+| [React Todo App](https://github.com/Aman-0402/React_todo_app) | Clean & responsive React UI |
 
 ---
 
@@ -84,6 +81,21 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 - Deep Learning Architectures  
 - MLOps & Model Deployment  
 - Cloud-native AI Systems  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-0402&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-0402&theme=radical" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-0402&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
 
 ---
 
@@ -99,7 +111,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 <img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="mailto:aman08.stars@gmail.com">
+<a href="mailto:think.like.ai.aman@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
