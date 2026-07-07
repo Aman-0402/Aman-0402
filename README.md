@@ -87,23 +87,26 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 ---
 
-## 🧪 AI & Data Science Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| [Wine Quality Prediction](https://github.com/Aman-0402/Wine-Quality-prediction) | ML model predicting wine quality | Python, Sklearn |
-| [Watermarking Attacks & Recovery](https://github.com/Aman-0402/Watermarking_Attacks_and_Recovery) | Image processing & security system | OpenCV, Python |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Certibyt](https://certibyt.com)** · [repo](https://github.com/Aman-0402/CertiVerse) | Multi-tenant exam & certification SaaS — proctored exams, voucher commerce, certificate verification, 186 automated tests | Django · React · Redux Toolkit · MariaDB · JWT |
+| **[ConsultME](https://consultmee.in)** · [repo](https://github.com/Aman-0402/ConsultME) | Consultancy marketplace — real-time chat, escrow payments, reschedule engine | Django · DRF · React · Redis · Celery · Channels |
+| **[UrbanEase](https://github.com/Aman-0402/UrbanEase)** | Hyperlocal service marketplace — geolocation discovery, full booking lifecycle | Django · DRF · React · MySQL · Zustand |
+| **[TMS](https://tmsethnotec.netlify.app)** | Training management system — students, batches, attendance, exams, certificates (production, Ethnotech Academy) | Django · DRF · React · Vite · MySQL |
 
 ---
 
-## 💻 Full Stack & Web Projects
+## 💻 More Projects
 
-| Project | Description |
-|----------|-------------|
-| [Blood Donation App](https://github.com/Aman-0402/Blood_Donation_PythonDjango) | Django-based full stack healthcare system |
-| [EchoSpace Blog CMS](https://github.com/Aman-0402/EchoSpace-Blog-Management-System-) | Role-based Blog management system with CRUD |
-| [My Portfolio](https://github.com/Aman-0402/aman.ai) | Modern AI-focused personal website |
-| [React Todo App](https://github.com/Aman-0402/React_todo_app) | Clean & responsive React UI |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Wine Quality Prediction](https://github.com/Aman-0402/Wine-Quality-prediction) | ML model predicting wine quality | Python, Sklearn |
+| [Watermarking Attacks & Recovery](https://github.com/Aman-0402/Watermarking_Attacks_and_Recovery) | Image processing & security system | OpenCV, Python |
+| [Blood Donation App](https://github.com/Aman-0402/Blood_Donation_PythonDjango) | Django-based full stack healthcare system | Django |
+| [EchoSpace Blog CMS](https://github.com/Aman-0402/EchoSpace-Blog-Management-System-) | Role-based blog management system with CRUD | Django |
+| [React Todo App](https://github.com/Aman-0402/React_todo_app) | Clean & responsive React UI | React |
 
 ---
 
