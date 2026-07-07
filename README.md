@@ -106,7 +106,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 | [Watermarking Attacks & Recovery](https://github.com/Aman-0402/Watermarking_Attacks_and_Recovery) | Image processing & security system | OpenCV, Python |
 | [Blood Donation App](https://github.com/Aman-0402/Blood_Donation_PythonDjango) | Django-based full stack healthcare system | Django |
 | [EchoSpace Blog CMS](https://github.com/Aman-0402/EchoSpace-Blog-Management-System-) | Role-based blog management system with CRUD | Django |
-| [React Todo App](https://github.com/Aman-0402/React_todo_app) | Clean & responsive React UI | React |
+| [React Todo App](https://github.com/Aman-0402/React_todo_app) · [live](https://aman-0402.github.io/React_todo_app/) | Clean & responsive React UI | React |
 
 ---
 
